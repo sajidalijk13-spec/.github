@@ -5,7 +5,7 @@
 We have built a collection of best-in-class products:
 
 - [Ray](https://myray.app): keep debug output neatly organized in a dedicated desktop app
-- [Flare](https://flareapp.io): exception tracking & performanc monitoring without the complexity, built for Laravel, PHP & JavaScript
+- [Flare](https://flareapp.io): exception tracking & performance monitoring without the complexity, built for Laravel, PHP & JavaScript
 - [Mailcoach](https://mailcoach.app): powerful email marketing platform with a self-hosted option
 - [Media Library Pro](https://medialibrary.pro): front-end components to upload and manage media
 
