@@ -4,11 +4,10 @@
 
 We have built a collection of best-in-class products:
 
-- [Ray](https://myray.app): a desktop app to debug applications faster
-- [Flare](https://flareapp.io): the best exception tracker for PHP and Laravel application
-- [Mailcoach](https://mailcoach.app): a self-hosted solution for sending mails reliably
+- [Ray](https://myray.app): keep debug output neatly organized in a dedicated desktop app
+- [Flare](https://flareapp.io): exception tracking & performanc monitoring without the complexity, built for Laravel, PHP & JavaScript
+- [Mailcoach](https://mailcoach.app): powerful email marketing platform with a self-hosted option
 - [Media Library Pro](https://medialibrary.pro): front-end components to upload and manage media
-- [Laravel Backup Server](https://spatie.be/products/laravel-backup-server): a package to easily back up multiple servers
 
 Our experience building PHP and Laravel applications is shared in these premium courses:
 
